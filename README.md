@@ -1,1 +1,3 @@
-# SustechSTA303_lab01
+# STA303-Artificail-Intelligence-B
+
+## Instructor: Wei Hongxin
